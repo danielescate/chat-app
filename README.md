@@ -1,5 +1,6 @@
 # Chat Interface
 
+Daniel, Zaineb, Jihye, Minji
 
 ## Steps to complete the assignment
 
